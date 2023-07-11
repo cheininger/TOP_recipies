@@ -1,0 +1,17 @@
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  background-color: peru;
+  text-align: center;
+  color: gainsboro;
+  font-size: 36px;
+}
+
+img {
+  height: 150px;
+  width: auto;
+  align-self: center;
+}
