@@ -27,3 +27,16 @@ img {
 .list-link {
   background-color: antiquewhite;
 }
+
+.list-image {
+  display: block;
+  padding: 8px;
+  height: 100px;
+  width: auto;
+}
+
+.list-link > a {
+  display: block;
+  padding: 0px 0px 8px 8px;
+  width: fit-content;
+}
